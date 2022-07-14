@@ -1,0 +1,12 @@
+description = "Entities (domain objects) and uses cases that implement the business logic"
+apply plugin: 'java'
+
+repositories { 
+    mavenCentral() 
+}
+
+dependencies {
+    implementation "org.apache.commons:commons-lang3:3.4"
+
+
+}
