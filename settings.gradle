@@ -8,4 +8,4 @@
  */
 
 rootProject.name = '0315'
-include "application:core"
+include ("application:core")
